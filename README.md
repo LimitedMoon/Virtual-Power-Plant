@@ -1,2 +1,15 @@
-# Virtual-Power-Plant
-智能调度系统，用于解决传统园区能源管理中“数据分散、人工调度效率低、负荷预测不准、峰谷电价响应滞后、运营分析成本高”等核心痛点
+# Enterprise Token Plan Demo
+
+AI-driven Virtual Power Plant multi-agent enterprise demo.
+
+## Run
+```bash
+python app.py
+```
+
+## Components
+- DataAgent
+- ForecastAgent
+- StrategyAgent
+- ReportAgent
+- Flask dashboard API (optional stub)
